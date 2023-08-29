@@ -1,0 +1,8 @@
+-extentions through pip-
+
+-speedtest-cli
+-win10toast
+-pypiwin32
+-setuptools
+
+Requirements through: https://github.com/jithurjacob/Windows-10-Toast-Notifications
